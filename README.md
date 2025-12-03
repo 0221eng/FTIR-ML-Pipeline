@@ -9,8 +9,10 @@ sparse, peak-based representation.
 
 ## Intellectual Property / Registration
 
-This repository implements the system described in the registered software:
-“Fure transformatsiyalangan infraqizil (FTIR) spektrlari klassifikatsiyasi uchun mashinaviy o‘qitish asosida tizim”.
+The work described in this manuscript is covered by a patent application currently under
+review by the Intellectual Property Agency of the Republic of Uzbekistan (Ref: DT
+202509952).
+
 
 ---
 
