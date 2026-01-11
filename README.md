@@ -18,7 +18,7 @@ review by the Intellectual Property Agency of the Republic of Uzbekistan (Ref: D
 
 ## Large Files (Google Drive)
 
-Due to GitHub file size limits, some large assets are **not stored directly in this repository**.
+For convenience all the contents of the repository are available in Google Drive as well.
 They are available in a shared Google Drive folder, including:
 
 - `training_data/spectras.csv` – full FTIR training dataset (4 replicates per compound)
